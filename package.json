@@ -10,5 +10,9 @@
   "author": "Gary Borton <gdborton@gmail.com>",
   "dependencies": {
     "express": "^4.1.2"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-cli": "^0.1.13"
   }
 }
